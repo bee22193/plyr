@@ -91,6 +91,6 @@
         "custom-event-polyfill": "^1.0.7",
         "loadjs": "^3.6.1",
         "rangetouch": "^2.0.0",
-        "url-polyfill": "^1.1.5"
+        "url-polyfill": "^1.1.11"
     }
 }
