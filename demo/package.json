@@ -9,6 +9,6 @@
         "custom-event-polyfill": "^1.0.7",
         "raven-js": "^3.27.2",
         "shr-buttons": "2.0.3",
-        "url-polyfill": "^1.1.5"
+        "url-polyfill": "^1.1.12"
     }
 }
