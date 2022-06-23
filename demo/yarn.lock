@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-core-js@^3.1.4:
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.1.4.tgz#3a2837fc48e582e1ae25907afcd6cf03b0cc7a07"
-  integrity sha512-YNZN8lt82XIMLnLirj9MhKDFZHalwzzrL9YLt6eb0T5D0EDl4IQ90IGkua8mHbnxNrkj1d8hbdizMc0Qmg1WnQ==
+core-js@^3.22.8:
+  version "3.23.2"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.23.2.tgz#e07a60ca8b14dd129cabdc3d2551baf5a01c76f0"
+  integrity sha512-ELJOWxNrJfOH/WK4VJ3Qd+fOqZuOuDNDJz0xG6Bt4mGg2eO/UT9CljCrbqDGovjLKUrGajEEBcoTOc0w+yBYeQ==
 
 custom-event-polyfill@^1.0.7:
   version "1.0.7"
