@@ -87,10 +87,10 @@
         "through2": "^3.0.1"
     },
     "dependencies": {
-        "core-js": "^3.1.4",
+        "core-js": "^3.38.0",
         "custom-event-polyfill": "^1.0.7",
         "loadjs": "^3.6.1",
-        "rangetouch": "^2.0.0",
-        "url-polyfill": "^1.1.5"
+        "rangetouch": "^2.0.1",
+        "url-polyfill": "^1.1.12"
     }
 }
