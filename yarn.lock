@@ -8849,10 +8849,10 @@ url-parse-lax@^3.0.0:
   dependencies:
     prepend-http "^2.0.0"
 
-url-polyfill@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/url-polyfill/-/url-polyfill-1.1.5.tgz#bec79b72b5407dba6d8cced2e32e4ab273aa9fb1"
-  integrity sha512-9XjIJ6nwrU+nGd8t90Ze0Zs7t8A+SU0gqsqPttj6j3zAVe5q0HFcuv37nDBdVSPpi4aTHTfbUF/i+ZVD+o2EbA==
+url-polyfill@^1.1.13:
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/url-polyfill/-/url-polyfill-1.1.13.tgz#e281edcded747a004b978c70941325b2243bfa97"
+  integrity sha512-tXzkojrv2SujumYthZ/WjF7jaSfNhSXlYMpE5AYdL2I3D7DCeo+mch8KtW2rUuKjDg+3VXODXHVgipt8yGY/eQ==
 
 url-regex@^5.0.0:
   version "5.0.0"
